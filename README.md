@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/parth vadodariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="parth vadodariya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/parthmevada2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="parth vadodariya" height="30" width="40" /></a>
 <a href="https://instagram.com/parth_mevada_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parth_mevada_15" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@parthmevada2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@parthmevada2005" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/parthmevada2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@parthmevada2005" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
