@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Parth Mevada</h1>
 <h3 align="center">I am a student of Computer Engineering At B.h.gardividyapith in gujarat</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthvadodariya2004&label=Profile%20views&color=0e75b6&style=flat" alt="parthvadodariya2004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ParthVadodariya2005&label=Profile%20views&color=0e75b6&style=flat" alt="ParthVadodariya2005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthvadodariya2004" alt="parthvadodariya2004" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ParthVadodariya2005" alt="ParthVadodariya2005" /></a> </p>
 
 - 🔭 I’m currently working on Make A App with REST API using K-tor server  Comming soon.....
 
@@ -12,7 +12,9 @@
 
 - 🤝 I’m looking for help with  Any Android releted project at any time.. 
 
-- 👨‍💻 All of my projects are available at Sorry portfolio are under development .... Sorry portfolio are under development ....
+- 👨‍💻 All of my projects are available at portfolio 
+
+        are under development .... 
 
 - 📫 How to reach me  parthvadodariya2005@gmail.com 
 
