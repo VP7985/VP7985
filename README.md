@@ -33,4 +33,4 @@
      <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParthVadodariya2005&theme=gotham	&bg_color=#34eb46&layout=compact"/>
     </p>        
-</div>    
+</div>
